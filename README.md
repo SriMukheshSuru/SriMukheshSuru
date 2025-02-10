@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🌱 I'm currently pursuing my Btech at IIT Bhubaneswar<br>🔭 I'm currently working on Web development 
+🌱 I'm currently pursuing my Btech at IIT Bhubaneswar<br>🔭 I'm currently working on developing my skills in Web dev 
 
 
 ## 🌐 Socials:
