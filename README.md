@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🌱 I'm currently pursuing my Btech at IIT Bhubaneswar<br>🔭 I'm currently working on developing my skills in Web dev 
+🌱 I'm currently Working as Data Science Trainee at Sigmoid Analytics <br>🔭 I'm currently working on developing my skills in Data Science and AI Agents 
 
 
 ## 🌐 Socials:
